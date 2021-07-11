@@ -61,6 +61,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.fh-kaernten.at\/fachhochschule\/bibliothek"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,7 +247,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
