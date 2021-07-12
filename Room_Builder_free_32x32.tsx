@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.5" tiledversion="1.7.0" name="Room_Builder_free_32x32" tilewidth="32" tileheight="32" tilecount="391" columns="17">
- <image source="../../../../Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32/Room_Builder_free_32x32.png" width="544" height="736"/>
+ <image source="Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32/Room_Builder_free_32x32.png" width="544" height="736"/>
  <tile id="5">
   <properties>
    <property name="collides" type="bool" value="true"/>
@@ -45,7 +45,7 @@
   <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="-0.0850611" width="32.1531" height="12.1637"/>
    <object id="2" x="0" y="0" width="32" height="12"/>
    <object id="3" x="0" y="0" width="32" height="12"/>
