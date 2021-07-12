@@ -112,14 +112,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"OpenWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.google.at"
-                }, 
-                {
-                 "name":"openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -135,14 +135,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"OpenWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/paswal4.dreamhosters.com"
-                }, 
-                {
-                 "name":"openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
