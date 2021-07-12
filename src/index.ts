@@ -3,5 +3,11 @@
 // You can write your WorkAdventure script here, if any.
 // The "WA" global object is available from anywhere.
 
-console.log('Script started successfully');
-WA.openCoWebSite('http://paswal4.dreamhoster.com');
+if (tilelayer == "Bibliothek")
+	{
+		WA.openCoWebsite('https://google.at');
+	}
+if (tilelayer == "Website")
+	{
+		WA.openCoWebsite('http://paswal4.dreamhosters.com');
+	}
