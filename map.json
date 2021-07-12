@@ -49,6 +49,11 @@
                  "name":"openWebsiteAllowApi",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,6 +77,11 @@
                  "name":"openWebsiteAllowApi",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
