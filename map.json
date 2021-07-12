@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/imgur.com\/a\/WvADipz"
+                 "value":"LayerBibliothek.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -77,7 +77,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/imgur.com\/a\/1ljGnuK"
+                 "value":"LayerWebsite.png"
                 }],
          "type":"tilelayer",
          "visible":true,
