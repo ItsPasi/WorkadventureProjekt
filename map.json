@@ -42,6 +42,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"OpenWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"OpenWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
