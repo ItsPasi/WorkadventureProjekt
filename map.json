@@ -49,10 +49,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.at"
+                 "value":"https:\/\/github.com\/pasi123567\/WorkadventureProjekt\/blob\/master\/wsnifejvu0471.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                  "value":"http:\/\/paswal4.dreamhosters.com"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
