@@ -2,7 +2,7 @@
 <tileset version="1.5" tiledversion="1.7.0" name="idle_32x32_2" tilewidth="32" tileheight="32" tilecount="8" columns="4">
  <image source="Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/idle_32x32_2.png" width="128" height="64"/>
  <tile id="0">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="3.69866" y="32.0991">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -30,7 +30,7 @@
   <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="3.56656" y="0.132095">
     <properties>
      <property name="collides" type="bool" value="true"/>

@@ -2,7 +2,7 @@
 <tileset version="1.5" tiledversion="1.7.0" name="Room_Builder_free_32x32" tilewidth="32" tileheight="32" tilecount="391" columns="17">
  <image source="Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32/Room_Builder_free_32x32.png" width="544" height="736"/>
  <tile id="5">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="17.8328" y="-0.132095" width="14.2663" height="32.2312">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -11,7 +11,7 @@
   </objectgroup>
  </tile>
  <tile id="6">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="0" width="14.0021" height="31.8349">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -20,7 +20,7 @@
   </objectgroup>
  </tile>
  <tile id="7">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="17.7007" y="-0.132095" width="14.3983" height="32.0991">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -29,7 +29,7 @@
   </objectgroup>
  </tile>
  <tile id="8">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.132095" y="0" width="14.3984" height="32.0991">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -53,7 +53,7 @@
   </properties>
  </tile>
  <tile id="22">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="-0.132095" width="31.967" height="11.8885">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -62,7 +62,7 @@
   </objectgroup>
  </tile>
  <tile id="23">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.132095" y="-0.132095" width="32.0991" height="12.1527">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -71,7 +71,7 @@
   </objectgroup>
  </tile>
  <tile id="24">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="-0.0850611" width="32.1531" height="12.1637"/>
    <object id="2" x="0" y="0" width="32" height="12"/>
    <object id="3" x="0" y="0" width="32" height="12"/>
@@ -84,7 +84,7 @@
   </objectgroup>
  </tile>
  <tile id="25">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="2" x="0.132095" y="-0.132095" width="31.8349" height="12.1527">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -93,7 +93,7 @@
   </objectgroup>
  </tile>
  <tile id="26">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.26419" y="12.0206">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -103,7 +103,7 @@
   </objectgroup>
  </tile>
  <tile id="27">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="14.1342" y="31.8349">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -113,12 +113,12 @@
   </objectgroup>
  </tile>
  <tile id="28">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="17.8328" y="0.132095" width="14.3983" height="31.967"/>
   </objectgroup>
  </tile>
  <tile id="30">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0.132095" y="0" width="13.87" height="31.967">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -132,7 +132,7 @@
   </properties>
  </tile>
  <tile id="39">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.132095" y="0">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -142,7 +142,7 @@
   </objectgroup>
  </tile>
  <tile id="40">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="14.1342" y="32.3633">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -152,7 +152,7 @@
   </objectgroup>
  </tile>
  <tile id="45">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="17.9649" y="-0.132095" width="13.87" height="32.2312">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -161,7 +161,7 @@
   </objectgroup>
  </tile>
  <tile id="47">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0.132095" y="-0.132095" width="14.0021" height="32.0991">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -170,7 +170,7 @@
   </objectgroup>
  </tile>
  <tile id="58">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="14.1482" y="31.967">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -180,7 +180,7 @@
   </objectgroup>
  </tile>
  <tile id="59">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="11.8885">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -190,7 +190,7 @@
   </objectgroup>
  </tile>
  <tile id="60">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="0" y="0" width="31.967" height="12.0206">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -199,7 +199,7 @@
   </objectgroup>
  </tile>
  <tile id="62">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="17.5686" y="0" width="14.3983" height="12.0206">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -208,7 +208,7 @@
   </objectgroup>
  </tile>
  <tile id="63">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.132095" y="0" width="32.0991" height="12.0206">
     <properties>
      <property name="collides" type="bool" value="true"/>
@@ -217,7 +217,7 @@
   </objectgroup>
  </tile>
  <tile id="64">
-  <objectgroup draworder="index" id="2">
+  <objectgroup draworder="index">
    <object id="1" x="-0.132095" y="-0.26419" width="14.0021" height="12.1527">
     <properties>
      <property name="collides" type="bool" value="false"/>
