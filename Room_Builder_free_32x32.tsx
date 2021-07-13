@@ -113,9 +113,6 @@
   </objectgroup>
  </tile>
  <tile id="28">
-  <properties>
-   <property name="collides" type="bool" value="true"/>
-  </properties>
   <objectgroup draworder="index" id="2">
    <object id="1" x="17.8328" y="0.132095" width="14.3983" height="31.967"/>
   </objectgroup>
