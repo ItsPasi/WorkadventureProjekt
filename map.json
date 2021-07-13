@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"WorkadventureProjekt\/map.json"
+         "target":"..\/map.json"
         }
     },
  "height":30,
@@ -569,7 +569,7 @@
         {
          "columns":18,
          "firstgid":1,
-         "image":"WorkadventureProjekt\/Beach Tileset\/Beach Tileset.png",
+         "image":"Beach Tileset\/Beach Tileset.png",
          "imageheight":288,
          "imagewidth":576,
          "margin":0,
@@ -582,7 +582,7 @@
         {
          "columns":17,
          "firstgid":163,
-         "image":"WorkadventureProjekt\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Room_Builder_free_32x32.png",
+         "image":"Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Room_Builder_free_32x32.png",
          "imageheight":736,
          "imagewidth":544,
          "margin":0,
@@ -1524,7 +1524,7 @@
         {
          "columns":16,
          "firstgid":554,
-         "image":"WorkadventureProjekt\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Interiors_free_32x32.png",
+         "image":"Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Interiors_free_32x32.png",
          "imageheight":2848,
          "imagewidth":512,
          "margin":0,
@@ -2808,7 +2808,7 @@
         {
          "columns":16,
          "firstgid":1978,
-         "image":"WorkadventureProjekt\/Kauzz Free Tiles I\/neotiles.png",
+         "image":"Kauzz Free Tiles I\/neotiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2849,7 +2849,7 @@
         {
          "columns":16,
          "firstgid":2234,
-         "image":"WorkadventureProjekt\/Kauzz Free Tiles I\/streets-tilee-v2.png",
+         "image":"Kauzz Free Tiles I\/streets-tilee-v2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3115,7 +3115,7 @@
         {
          "columns":4,
          "firstgid":2490,
-         "image":"WorkadventureProjekt\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Old\/idle_32x32_2.png",
+         "image":"Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Old\/idle_32x32_2.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -3319,7 +3319,7 @@
         {
          "columns":58,
          "firstgid":2498,
-         "image":"WorkadventureProjekt\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/free_overview.png",
+         "image":"Modern_Interiors_Free_v2.2\/Modern tiles_Free\/free_overview.png",
          "imageheight":1792,
          "imagewidth":1886,
          "margin":0,
@@ -15219,7 +15219,7 @@
         {
          "columns":16,
          "firstgid":5746,
-         "image":"WorkadventureProjekt\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Interiors_free_32x32.png",
+         "image":"Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/32x32\/Interiors_free_32x32.png",
          "imageheight":2848,
          "imagewidth":512,
          "margin":0,
