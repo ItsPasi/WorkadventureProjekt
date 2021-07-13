@@ -16367,6 +16367,10 @@
         {
          "firstgid":7170,
          "source":"Room_Builder_free_32x32.tsx"
+        }, 
+        {
+         "firstgid":7561,
+         "source":"Room_Builder_free_32x32.tsx"
         }],
  "tilewidth":32,
  "type":"map",
